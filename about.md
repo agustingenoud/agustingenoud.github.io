@@ -1,4 +1,5 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+This is an attempt to gather a journey of experiments on vocal technologies. New and old.
+You can find information about me as an artist on my [website]([https://guides.github.com/features/mastering-markdown/](https://agustingenoud.cc/)).
 
